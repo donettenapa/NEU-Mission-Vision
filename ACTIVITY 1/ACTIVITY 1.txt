@@ -1,0 +1,40 @@
+<html>
+
+     <head>
+		 <title>Html Activity 1</title>
+     </head>
+	
+     <body bgcolor="orange">
+     <center>
+  
+		 <hr width="1300" size="15"  color="Blue"/> 
+		 <h1> <font face="Garamond" size="7" color="Blue"> New Era University  </font></h1>
+		 <hr width="1300" size="15"  color="Blue"> 
+	   
+		 <h2> <font face="Garamond" size="6" color="black"> Philosophy Of Education  </font></h2>
+		 <p><i><font size="4"> Godliness is the foundation of knowledge    </font></i></p>
+		 <hr width="1000" size="5"  color="Blue"/>
+	   
+		 <h2> <font face="Garamond" size="6" color="black"> Vision  </font></h2>
+		 <p><i><font size="4"> A world-class Institution of learning with a unique Christian culture of excellence, discipline, and service to humanity.    </font></i></p>
+		 <hr width="1000" size="5"  color="Blue"/>
+		 
+		 <h2> <font face="Garamond" size="6" color="black"> Mission  </font></h2>
+		 <p><i><font size="4"> Provide quality education annchored on Christian values with the prime purpose of bringing honor and glory to God.    </font></i></p>
+		 <hr width="1000" size="5"  color="Blue"/>
+	   
+		 <h2><font face="Garamond" size="6" color="black"> Goals And Objectives </font></h2>
+		 <p><b><font size="4"> Impart value-laden education to the total development of man.  </font></p></b>
+		 <p><b><font size="4"> Offer curricula responsive to the needs of the time.  </b></font></p>
+		 <p><b><font size="4"> Optimize learning through the adoption and utilization of appropriate instructional methods and resources.   </b></font></p></b>
+		 <p><b><font size="4"> Propel institutional development through the conduct of useful and significant researches.</font></p></b>
+		 <p><b><font size="4"> Extend outreach services which promote self-help in the community.</font></p></b>
+		 <p><b><font size="4"> Promote access to non-conventional higher education and basic education programs.</font></p></b>
+		 <p><b><font size="4"> Develop servant leaders among staff, faculty members, and administrators.</font></p></b>
+		 <p><b><font size="4"> Produce God-fearing, competent, and disciplined graduates.</font></p></b>
+		 <hr width="1000" size="5"  color="Blue"/>
+     
+	 </center>
+     </body>
+	
+</html>
